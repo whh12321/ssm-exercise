@@ -1,0 +1,6 @@
+com\soecode\lyfdao\BookDaoTest.class
+com\soecode\lyfdao\AppointmentDao.class
+com\soecode\lyfentity\Appointment.class
+com\soecode\lyfdao\BookDao.class
+com\soecode\lyfentity\Book.class
+com\soecode\BaseTest.class
